@@ -1,0 +1,1 @@
+# guia-de-estudos-aws-ai-practioner
